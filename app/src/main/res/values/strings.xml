@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UrCard</string>
+
+    <string name="tile_label">Card Tile</string>
+    <string name="tile_description">Your card tile.</string>
+
+    <string name="more_card">More</string>
+</resources>
